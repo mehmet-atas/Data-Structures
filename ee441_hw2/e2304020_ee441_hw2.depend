@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640457669 source:d:\codeblocks\yazdýklarým\e2304020_ee441_hw2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<algorithm>
+
